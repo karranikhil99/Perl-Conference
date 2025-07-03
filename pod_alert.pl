@@ -11,7 +11,7 @@ my $from_email  = 'knikhilreddy99@gmail.com';
 my $smtp_server = 'smtp.gmail.com';
 my $smtp_port   = 587;
 my $smtp_user   = 'knikhilreddy99@gmail.com';
-my $smtp_pass   = 'plmccibmashjpwsn';  # Gmail App Password
+my $smtp_pass   = 'plmcxxxxxxxxxx';  # Gmail App Password
 
 my $alert_cooldown = 300;  # 5 min between alerts per pod
 my %last_alert_time;
